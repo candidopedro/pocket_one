@@ -86,10 +86,6 @@ Mais detalhes de cada uma em seus respectivos `README.md`.
 
 Também há uma planilha com o mapeamento de comandos SysEx já identificados, mencionada em [`tools/README.md`](tools/README.md).
 
-## Contribuindo
-
-Pull requests são bem-vindos — seja para novos parâmetros/módulos descobertos, melhorias de UI ou correções no mapeamento do protocolo. Ao reportar um comando novo, inclua o dump/captura usado para identificá-lo, isso ajuda bastante a validar a contribuição.
-
 ## Aviso legal
 
 "Pocket Master" e "Sonicake" são marcas de seus respectivos proprietários. Este projeto é resultado de engenharia reversa feita de forma independente para fins educacionais e de interoperabilidade, sem qualquer afiliação, endosso ou suporte oficial da Sonicake.
